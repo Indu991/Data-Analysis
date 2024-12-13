@@ -1,0 +1,4 @@
+Initial Data Analysis Project on some example Sales data using
+1. SQL
+2. Excel
+3. Power BI
